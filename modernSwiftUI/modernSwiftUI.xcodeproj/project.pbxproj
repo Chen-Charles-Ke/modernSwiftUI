@@ -13,6 +13,7 @@
 		567259CB26A80C5B007857C0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 567259CA26A80C5B007857C0 /* Preview Assets.xcassets */; };
 		567259D626A80C5B007857C0 /* modernSwiftUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567259D526A80C5B007857C0 /* modernSwiftUITests.swift */; };
 		567259E126A80C5B007857C0 /* modernSwiftUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 567259E026A80C5B007857C0 /* modernSwiftUIUITests.swift */; };
+		56725A3326B1B770007857C0 /* MenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56725A3226B1B770007857C0 /* MenuView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		567259DC26A80C5B007857C0 /* modernSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = modernSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		567259E026A80C5B007857C0 /* modernSwiftUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = modernSwiftUIUITests.swift; sourceTree = "<group>"; };
 		567259E226A80C5B007857C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		56725A3226B1B770007857C0 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				567259C726A80C5B007857C0 /* Assets.xcassets */,
 				567259CC26A80C5B007857C0 /* Info.plist */,
 				567259C926A80C5B007857C0 /* Preview Content */,
+				56725A3226B1B770007857C0 /* MenuView.swift */,
 			);
 			path = modernSwiftUI;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				567259C626A80C57007857C0 /* ContentView.swift in Sources */,
+				56725A3326B1B770007857C0 /* MenuView.swift in Sources */,
 				567259C426A80C57007857C0 /* modernSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
