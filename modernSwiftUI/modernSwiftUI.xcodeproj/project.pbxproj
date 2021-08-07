@@ -20,6 +20,7 @@
 		56725A5B26BC0BA4007857C0 /* UpdateDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56725A5A26BC0BA4007857C0 /* UpdateDetail.swift */; };
 		56725A6026BC0BB1007857C0 /* UpdateStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56725A5F26BC0BB1007857C0 /* UpdateStore.swift */; };
 		56725A6526BC0BC2007857C0 /* TabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56725A6426BC0BC2007857C0 /* TabBar.swift */; };
+		56725A6A26BE6F4D007857C0 /* RingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56725A6926BE6F4D007857C0 /* RingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		56725A5A26BC0BA4007857C0 /* UpdateDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateDetail.swift; sourceTree = "<group>"; };
 		56725A5F26BC0BB1007857C0 /* UpdateStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpdateStore.swift; sourceTree = "<group>"; };
 		56725A6426BC0BC2007857C0 /* TabBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBar.swift; sourceTree = "<group>"; };
+		56725A6926BE6F4D007857C0 /* RingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,6 +115,7 @@
 				567259C526A80C57007857C0 /* ContentView.swift */,
 				56725A4B26BC0B86007857C0 /* Home.swift */,
 				56725A5026BC0B90007857C0 /* HomeView.swift */,
+				56725A6926BE6F4D007857C0 /* RingView.swift */,
 				56725A5526BC0B9A007857C0 /* UpdateList.swift */,
 				56725A5A26BC0BA4007857C0 /* UpdateDetail.swift */,
 				56725A5F26BC0BB1007857C0 /* UpdateStore.swift */,
@@ -280,6 +283,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				56725A6A26BE6F4D007857C0 /* RingView.swift in Sources */,
 				56725A6526BC0BC2007857C0 /* TabBar.swift in Sources */,
 				56725A5B26BC0BA4007857C0 /* UpdateDetail.swift in Sources */,
 				567259C626A80C57007857C0 /* ContentView.swift in Sources */,
